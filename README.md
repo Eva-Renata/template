@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+EVA template
+installeret npm pakker:
+npm i -D sass - til at bruge scss i stedet for css
+npm i axios - til at fetche
+npm i react-router-dom - til hooks
